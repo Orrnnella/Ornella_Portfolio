@@ -30,7 +30,7 @@
 	.Card {
 		background-color: black;
 		border-radius: 20px;
-		color: red;
+		color: white;
 		font-family: helvetica;
 		padding: 20px;
 		margin-top: 20px;
