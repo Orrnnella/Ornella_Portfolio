@@ -30,16 +30,13 @@
 	.Card {
 		background-color: black;
 		border-radius: 20px;
-		color: red;
+		color: rgb(0, 255, 0);
 		font-family: helvetica;
 		padding: 20px;
-		margin-top: 20px;
-		margin-bottom: 20px;
-		margin-left: 10px;
-		margin-right: 10px;
 	}
+
 	.categorie {
-		font-size: 32px;
+		font-size: 16px;
 		display: flex;
 		flex-direction: row;
 		justify-content: left;
@@ -47,15 +44,15 @@
 	}
 
 	.categoria {
-		border-color: red;
+		border-color: rgb(0, 255, 0);
 		border-width: 2px;
-		color: red;
+		color: rgb(0, 255, 0);
 		border-radius: 60px;
 		padding: 10px;
 	}
 
 	.categoria-bold {
-		background-color: red;
+		background-color: rgb(0, 255, 0);
 		color: black;
 		border-radius: 60px;
 		padding: 10px;
@@ -69,12 +66,12 @@
 		margin-top: 20px;
 	}
 	.titolo {
-		font-size: 148px;
+		font-size: 64px;
 	}
 	.footer {
 		display: flex;
 		flex-direction: row;
 		justify-content: space-between;
-		font-size: 32px;
+		font-size: 24px;
 	}
 </style>
