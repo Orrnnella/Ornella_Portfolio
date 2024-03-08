@@ -66,7 +66,7 @@
 		margin-top: 20px;
 	}
 	.titolo {
-		font-size: 64px;
+		font-size: 48px;
 	}
 	.footer {
 		display: flex;
