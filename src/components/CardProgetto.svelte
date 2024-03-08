@@ -1,9 +1,9 @@
-<script>
-	export let categorie;
-	export let image;
-	export let titolo;
-	export let tipologia;
-	export let anno;
+<script lang="ts">
+	export let categorie: string[];
+	export let image: string;
+	export let titolo: string;
+	export let tipologia: string;
+	export let anno: string;
 </script>
 
 <svelte:head>
