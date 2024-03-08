@@ -32,7 +32,7 @@
 		border-radius: 20px;
 		color: rgb(0, 255, 0);
 		font-family: helvetica;
-		padding: 20px;
+		padding: 16px;
 	}
 
 	.categorie {
